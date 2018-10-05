@@ -13,12 +13,21 @@ Undergraduate (2016-2020) : I am currently pursuing my B.Tech in Computer Scienc
  
 ## Skills:
 * Adept in coding in Python, C++ and Java
-* Currently learning Networking and Machine Learning
+* Adept in SQL.
+* Currently learning PHP and Machine Learning
 * Can speak English, Tamil, Malayalam and Telugu proficiently
 * Great team player as well as individual worker
+
+## Workshops Attended
+* IBM CALL for CODE conducted in Karunya Institue of Tecnology and Sciences on September 2018.
+* IBM Hackathon conducted in Karunya Institue of Tecnology and Sciences - Mindkraft 2017.
+* IOT workshop conducted by PSG - iTECH on September 2018.
+
+## Projects Completed:
+* Alert Bulletins and Message Conveyance System - IOT.
  
 ## Extra Curricular Activities:
-Foodie, Music Aficionado, Basketball player. 
+Foodie, Music Aficionado, Basketball player.
 
 # Contact
 prithiv@karunya.edu 
